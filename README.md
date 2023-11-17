@@ -1,6 +1,6 @@
 ## Producthunt GPT
 
-- laravel app that pulls the data from producthunt api https://api.producthunt.com/v2/docs to be trained for chatgpt
+- laravel app that pulls the data from producthunt api https://api.producthunt.com/v2/docs to be trained for Producthunt gpt https://chat.openai.com/g/g-ii1Z3SlM5-prodcthunt-gpt
 
 ## Installation
 - git clone git@github.com:amaelftah/Producthunt-GPT.git
